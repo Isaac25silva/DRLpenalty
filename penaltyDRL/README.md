@@ -35,7 +35,5 @@ That's it. However, if you want to run the examples, you'll also need the follow
 - [OpenAI Gym](https://github.com/openai/gym)
 - [h5py](https://pypi.python.org/pypi/h5py)
 
-`keras-rl` also works with [TensorFlow](https://www.tensorflow.org/). To find out how to use TensorFlow instead of [Theano](http://deeplearning.net/software/theano/), please refer to the [Keras documentation](http://keras.io/#switching-from-theano-to-tensorflow).
-
 
 
